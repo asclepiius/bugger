@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TowerDefence",
+			"Path": "D:\\Liam\\Documents\\Uni\\GameJam2024\\JamGroupA\\TowerDefence\\Source\\TowerDefence.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TowerDefenceEditor",
+			"Path": "D:\\Liam\\Documents\\Uni\\GameJam2024\\JamGroupA\\TowerDefence\\Source\\TowerDefenceEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
